@@ -1,2 +1,9 @@
-6.75
+6.77
+perl(Devel::Symdump)
+perl(File::Find::Rule)
+perl(Number::Compare)
+perl(Pod::Coverage)
 perl(Test::Inter)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Text::Glob)
