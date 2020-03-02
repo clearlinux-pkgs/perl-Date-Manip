@@ -1,9 +1,2 @@
-6.79
-perl(Devel::Symdump)
-perl(File::Find::Rule)
-perl(Number::Compare)
-perl(Pod::Coverage)
+6.81
 perl(Test::Inter)
-perl(Test::Pod)
-perl(Test::Pod::Coverage)
-perl(Text::Glob)
