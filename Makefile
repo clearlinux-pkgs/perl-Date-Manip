@@ -1,5 +1,5 @@
 PKG_NAME := perl-Date-Manip
-URL = https://cpan.metacpan.org/authors/id/S/SB/SBECK/Date-Manip-6.82.tar.gz
+URL = https://cpan.metacpan.org/authors/id/S/SB/SBECK/Date-Manip-6.83.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
