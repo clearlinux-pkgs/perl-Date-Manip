@@ -4,7 +4,7 @@
 #
 Name     : perl-Date-Manip
 Version  : 6.91
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Date-Manip-6.91.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Date-Manip-6.91.tar.gz
 Summary  : 'Date manipulation routines'
